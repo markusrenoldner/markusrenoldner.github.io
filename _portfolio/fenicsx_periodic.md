@@ -117,7 +117,7 @@ mpc.create_periodic_constraint_geometrical(V, periodic_boundary, periodic_relati
 mpc.finalize()
 
 ```
-The rest is standard again, with the only difference, that we use the `LinearProblem` command from the MPC library, which accepts the `m̀pc` as an argument.
+The rest is standard again, with the only difference, that we use the `LinearProblem` command from the MPC library, which accepts the `mpc` as an argument.
 ```
 # Define variational problem
 u = TrialFunction(V)
