@@ -27,8 +27,8 @@ redirect_from:
 - Doctoral studies in Mathematics at **EPFL** (2023-present)
 - MSc. Computational Science and Engineering at **TU Wien** (2021-2023)
 - Master’s Thesis in Applied Mathematics at **ETH Zürich** (2022-2023)
-- MSc. exchange in Applied and Computational Mathematics at **KTH Stockholm** (2022)
-- BSc. studies in Physics at **TU Wien** (discontinued before graduation)
+- Exchange semester in Applied and Computational Mathematics at **KTH Stockholm** (2022)
+- Bachelor studies in Physics at **TU Wien** (discontinued before graduation)
 - BSc. Mechanical Engineering and Management at **TU Wien** (2016-2020)
 
 
