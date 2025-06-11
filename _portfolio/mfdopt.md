@@ -9,6 +9,11 @@ The course (EPFL-512) was given at EPFL in the summer semester 2025 by Professor
 
 The `.pdf` file of my 30 page summary can be downloaded [here](https://www.markusrenoldner.com/files/mfdopt_summary.pdf).
 
+<iframe src="https://www.markusrenoldner.com/files/mfdopt_summary.pdf" width="100%" height="500px">
+  <p>Your browser does not support PDFs. <a href="https://www.markusrenoldner.com/files/mfdopt_summary.pdf">Download the PDF</a> instead.</p>
+</iframe>
+
+
 Overview:
 - Applications of optimization on manifolds
 - First-order Riemannian geometry in Euclidean spaces
