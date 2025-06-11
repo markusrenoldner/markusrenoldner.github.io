@@ -7,16 +7,8 @@ collection: portfolio
 
 The course (EPFL-512) was given at EPFL in the summer semester 2025 by Professor Nicolas Boumal and Andreea Musat, see [course website and textbook](https://www.nicolasboumal.net/book/index.html#lectures).
 
-The `.pdf` file of my 30 page summary can be downloaded [here](https://www.markusrenoldner.com/files/mfdopt_summary.pdf).
 
-
-<iframe src="https://www.markusrenoldner.com/files/mfdopt_summary.pdf" width="100%" height="500px">
-  <p>Your browser does not support PDFs. <a href="https://www.markusrenoldner.com/files/mfdopt_summary.pdf">Download the PDF</a> instead.</p>
-</iframe>
-
-
-
-Overview:
+Contents:
 - Applications of optimization on manifolds
 - First-order Riemannian geometry in Euclidean spaces
 - First-order optimization algorithms on manifolds
@@ -25,3 +17,11 @@ Overview:
 - General framework of differential geometry
 - Optimization on non-smooth domains
 - Geodesic convexity
+
+
+[Downloadlink](https://www.markusrenoldner.com/files/mfdopt_summary.pdf)
+
+
+<iframe src="https://www.markusrenoldner.com/files/mfdopt_summary.pdf" width="100%" height="500px">
+  <p>Your browser does not support PDFs. <a href="https://www.markusrenoldner.com/files/mfdopt_summary.pdf">Download the PDF</a> instead.</p>
+</iframe>
