@@ -1,7 +1,6 @@
-
 ---
 title: 'Lecture summary Optimization on manifolds (EPFL-512)'
-excerpt: "TODO <br/><img src='/images/poisson_periodic_scalar-1.png' style='max-width: 100%; height: auto; max-height: 200px;'>"
+excerpt: "Summary of a lecture on optimization problems and algorithms on manifolds, such as matrix manifolds."
 
 collection: portfolio
 ---
