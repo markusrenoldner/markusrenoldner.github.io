@@ -5,7 +5,7 @@ excerpt: "Summary of a lecture on optimization problems and algorithms on manifo
 collection: portfolio
 ---
 
-The course (EPFL-512) was given at EPFL in the summer semester 2025 by Professor Nicolas Boumal and Andreea Musat, see [course website and textbook](https://www.nicolasboumal.net/book/index.html#lectures).
+The course (EPFL-512) was given at EPFL in the summer semester 2025 by Professor Nicolas Boumal and Andreea Musat, see [course website](https://www.nicolasboumal.net/book/index.html#lectures).
 
 
 Contents:
@@ -19,7 +19,7 @@ Contents:
 - Geodesic convexity
 
 
-[Downloadlink](https://www.markusrenoldner.com/files/mfdopt_summary.pdf)
+[PDF download](https://www.markusrenoldner.com/files/mfdopt_summary.pdf)
 
 
 <iframe src="https://www.markusrenoldner.com/files/mfdopt_summary.pdf" width="100%" height="500px">
