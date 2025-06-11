@@ -1,0 +1,11 @@
+
+---
+title: 'Lecture summary Optimization on manifolds (EPFL-512)'
+excerpt: "Solving the poisson problem on a periodic mesh in FEniCSX <br/><img src='/images/poisson_periodic_scalar-1.png' style='max-width: 100%; height: auto; max-height: 200px;'>"
+
+collection: portfolio
+---
+
+The course was given by Professor Nicolas Boumal and Andreea Musat, see [here](https://www.nicolasboumal.net/book/index.html#lectures).
+
+The `.pdf` file can be downloaded [here](https://www.markusrenoldner.com/files/mfdopt_summary.pdf).
