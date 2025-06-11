@@ -16,4 +16,5 @@ Overview:
 - Second-order Riemannian geometry in Euclidean spaces
 - Second-order optimization algorithms on manifolds
 - General framework of differential geometry
+- Optimization on non-smooth domains
 - Geodesic convexity
