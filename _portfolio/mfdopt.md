@@ -2,7 +2,7 @@
 title: 'Lecture summary: optimization on manifolds'
 excerpt: "Summary of a lecture on optimization problems and algorithms on manifolds, such as matrix manifolds, using Riemannian geometry."
 
-collection: portfolio
+collection: notes
 ---
 
 The course (EPFL-512) was given at EPFL in the summer semester 2025 by Professor Nicolas Boumal and Andreea Musat, see [course website](https://www.nicolasboumal.net/book/index.html#lectures).
