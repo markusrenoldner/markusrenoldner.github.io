@@ -2,7 +2,7 @@
 title: 'Customised, daily arxiv summary'
 excerpt: "A short python script, that outputs a short summary of recent arxiv uploads based on user defined keywords and author names."
 
-collection: portfolio
+collection: notes
 ---
 
 The following python script takes as inputs
