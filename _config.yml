@@ -219,7 +219,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  notes:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
