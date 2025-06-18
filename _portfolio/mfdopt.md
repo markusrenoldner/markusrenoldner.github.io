@@ -5,8 +5,6 @@ excerpt: "Summary of a lecture on optimization problems and algorithms on manifo
 collection: notes
 ---
 
-**Disclaimer:** These notes were written by Markus Renoldner. They may contain typos or mistakes; any such errors are the author's responsibility.
-
 The course (EPFL-512) was given at EPFL in the summer semester 2025 by Professor Nicolas Boumal and Andreea Musat, see [course website](https://www.nicolasboumal.net/book/index.html#lectures).
 
 
@@ -20,6 +18,8 @@ Contents:
 - Optimization on non-smooth domains
 - Geodesic convexity
 
+
+**Disclaimer:** The following lecture notes were written by Markus Renoldner. They may contain typos or mistakes; any such errors are the author's responsibility.
 
 [PDF download](https://www.markusrenoldner.com/files/mfdopt_summary.pdf)
 
