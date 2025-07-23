@@ -1,6 +1,6 @@
 ---
-title: 'Periodic poisson problem in FEniCSx'
-excerpt: "Solving the poisson problem on a periodic mesh in FEniCSX <br/><img src='/images/poisson_periodic_scalar-1.png' style='max-width: 100%; height: auto; max-height: 200px;'>"
+title: 'Periodic transport system in FEniCSx'
+excerpt: "Solving a transport/wave system on a periodic mesh in FEniCSX <br/><img src='/images/poisson_periodic_scalar-1.png' style='max-width: 100%; height: auto; max-height: 200px;'>"
 
 collection: notes
 ---
@@ -342,6 +342,7 @@ The runtime should not be much more than a minute.
 
 
 
+The `.py` file can be downloaded [here](https://www.markusrenoldner.com/files/transport_sys_periodic.py).
 
 
 
