@@ -9,9 +9,6 @@ collection: notes
 
 
 
-
-# Linear wave-like transport system
-
 We study the problem to find two time-dependent functions $u,\phi$ on a bounded domain $\Omega=(0,1)^2 \subset \mathbb{R}^2$, that satisfy 
 $$\begin{cases}
 \displaystyle \partial_{t} u + b\cdot \nabla \phi=f, \\
