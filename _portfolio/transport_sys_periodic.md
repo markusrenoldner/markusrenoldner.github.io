@@ -172,26 +172,6 @@ $$
 $$
 
 
-$$
-\begin{aligned}
-    \begin{pmatrix}
-        M &
-        + \frac{\Delta t}{2}E \\
-        - \frac{\Delta t}{2}F &
-        N
-    \end{pmatrix}  
-    \begin{pmatrix} 
-        \vec u  ^{n+1}\\ 
-        \vec\phi^{n+1} 
-    \end{pmatrix} = 
-    \begin{pmatrix}
-        M \vec u^n - \frac{\Delta t}{2} E \vec\phi^n\\
-         \frac{\Delta t}{2} F\vec u^n +N\vec \phi^n
-    \end{pmatrix}
-\end{aligned}
-$$
-
-
 
 It turns out the continuous problem, as well as the fully discrete version is stable, and one can show, that solutions $u,\phi$ admit the following conserved quanitity:
 
