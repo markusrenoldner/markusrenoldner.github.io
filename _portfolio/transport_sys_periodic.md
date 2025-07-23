@@ -29,11 +29,13 @@ for a suitable function $h$. This last problem resembles the linear wave equatio
 
 The aim of this tutorial is to show how to use periodic boundary conditions. We will choose the following setting:
 
-$$\begin{align*}
+$$
+\begin{align*}
 \phi|_{\Gamma_D} &=0 , \\
 \phi|_{\Gamma_l} &= \phi|_{\Gamma_r}, \\
 u|_{\Gamma_l} &= |_{\Gamma_r},
-\end{align*}$$
+\end{align*}
+$$
 
 where we set $\partial\Omega = \Gamma_D\cup \Gamma_l \cup \Gamma_r$, with
 
