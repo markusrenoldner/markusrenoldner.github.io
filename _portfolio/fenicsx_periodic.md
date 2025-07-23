@@ -10,6 +10,16 @@ Solving the Poisson Problem with Periodic Boundary Conditions in FEniCSx. For th
 - [https://jsdokken.com/dolfinx_mpc/](https://jsdokken.com/dolfinx_mpc/)
 - [https://docs.fenicsproject.org/](https://docs.fenicsproject.org/)
 
+
+
+<center>
+  <img src="/files/transport_sys_periodic_animation_u.gif" width="400" alt="Periodic transport solution animation">
+</center>
+*Periodic solution $u$ on a periodic mesh.*
+{: style="color:gray; text-align: center;"}
+
+
+
 In this example, we solve the Poisson problem on a 2D unit square mesh using periodic boundary conditions in the x-direction and homogeneous Dirichlet conditions in the y-direction.
 
 We encode the periodicity in the definition of the domain:
