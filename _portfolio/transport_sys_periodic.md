@@ -132,12 +132,15 @@ $$\begin{cases}
 \end{cases}$$
 
 Here $X^r$ denotes the Lagrange order $r$, global FEM space of piecewise polynomial functions that are globally continuous, defined as 
+
 $$
 X^r(\Omega) := \{u_h \in C (\bar{\Omega} ) : u_h |_K \in \mathbb{P}^r\ \forall K\} .
 $$
+
 The notation $X^r_0$ denotes the restriction of the above space to a space with zero boundary values.
 
 For the derivative in time, we use the Crank-Nicolson scheme. We define some matrices:
+
 $$\begin{aligned}
     M_{ij} &= \left \langle v_j, v_i \right \rangle \\
     N_{ij} &= \left \langle \psi_j,\psi_i \right \rangle  \\
@@ -146,6 +149,7 @@ $$\begin{aligned}
 \end{aligned}$$
 
 The scheme is then:
+
 $$
 \begin{aligned}
     \begin{pmatrix}
@@ -188,6 +192,7 @@ $$
 
 
 It turns out the continuous problem, as well as the fully discrete version is stable, and one can show, that solutions $u,\phi$ admit the following conserved quanitity:
+
 $$\mathcal{E} = \int_\Omega u^2 +\phi^2.$$
 
 We will now define this in fenicsx.
