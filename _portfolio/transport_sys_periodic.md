@@ -6,7 +6,8 @@ collection: notes
 ---
 
 
-![demo](https://github.com/markusrenoldner/markusrenoldner.github.io/blob/master/files/transport_sys_periodic_animation_u.gif)
+![demo](https://github.com/markusrenoldner/markusrenoldner.github.io/raw/master/files/transport_sys_periodic_animation_u.gif)
+
 
 We study the problem to find two time-dependent functions $u,\phi$ on a bounded domain $\Omega=(0,1)^2 \subset \mathbb{R}^2$, that satisfy 
 
