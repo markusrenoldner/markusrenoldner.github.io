@@ -9,18 +9,23 @@ collection: notes
 ![demo](https://github.com/markusrenoldner/markusrenoldner.github.io/blob/master/files/transport_sys_periodic_animation_u.gif)
 
 We study the problem to find two time-dependent functions $u,\phi$ on a bounded domain $\Omega=(0,1)^2 \subset \mathbb{R}^2$, that satisfy 
+
 $$\begin{cases}
 \displaystyle \partial_{t} u + b\cdot \nabla \phi=f, \\
 \partial_{t} \phi + b\cdot \nabla u=g,
 \end{cases}
 $$
+
 where $b$ is a vectorfield with $\nabla\cdot b = 0$, that dictates the advection direction, and $f,g$ are given functions.
 
 Smooth solutions of the above system also satisfy a decoupled version of the above system, 
+
 $$\partial_{tt} u + b\cdot\nabla (b\cdot\nabla u) = h,$$
+
 for a suitable function $h$. This last problem resembles the linear wave equation, hence the name.
 
 The aim of this tutorial is to show how to use periodic boundary conditions. We will choose the following setting:
+
 $$\begin{align*}
 \phi|_{\Gamma_D} &=0 , \\
 \phi|_{\Gamma_l} &= \phi|_{\Gamma_r}, \\
@@ -28,6 +33,7 @@ u|_{\Gamma_l} &= |_{\Gamma_r},
 \end{align*}$$
 
 where we set $\partial\Omega = \Gamma_D\cup \Gamma_l \cup \Gamma_r$, with
+
 $$\begin{align*}
 \Gamma_D &:=\{(x,y)\in \bar{\Omega}: y=0 \text{ or }y=1\},\quad&&\text{i.e. the bottom and top wall}\\
 \Gamma_l &:=\{(x,y)\in \bar{\Omega}: x=0\},\quad&&\text{i.e. the left wall}\\
