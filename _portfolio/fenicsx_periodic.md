@@ -11,6 +11,7 @@ Solving the Poisson Problem with Periodic Boundary Conditions in FEniCSx. For th
 - [https://docs.fenicsproject.org/](https://docs.fenicsproject.org/)
 
 
+The code below produces the following animation
 
 <center>
   <img src="/files/transport_sys_periodic_animation_u.gif" width="400" alt="Periodic transport solution animation">
