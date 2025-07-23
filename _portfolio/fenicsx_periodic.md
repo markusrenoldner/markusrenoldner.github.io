@@ -16,8 +16,7 @@ The code below produces the following animation
 <center>
   <img src="/files/transport_sys_periodic_animation_u.gif" width="400" alt="Periodic transport solution animation">
 </center>
-*Periodic solution $u$ on a periodic mesh.*
-{: style="color:gray; text-align: center;"}
+
 
 
 
