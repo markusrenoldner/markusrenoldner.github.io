@@ -11,7 +11,7 @@ collection: notes
 
 
 
-We study the problem to find two time-dependent functions $u,\phi$ on a bounded domain $\Omega=(0,1)^2 \subset \mathbb{R}^2$, that satisfy 
+We study the problem to find two time-dependent functions \\(u,\phi\\) on a bounded domain \\(\Omega=(0,1)^2 \subset \mathbb{R}^2\\), that satisfy 
 
 $$\begin{cases}
 \displaystyle \partial_{t} u + b\cdot \nabla \phi=f, \\
@@ -19,7 +19,7 @@ $$\begin{cases}
 \end{cases}
 $$
 
-where $b$ is a vectorfield with $\nabla\cdot b = 0$, that dictates the advection direction, and $f,g$ are given functions.
+where the vectorfield satisfies \\(\operatorname{div} b = 0\\), that dictates the advection direction, and \\(f,g\\) are given functions.
 
 Smooth solutions of the above system also satisfy a decoupled version of the above system, 
 
