@@ -37,7 +37,7 @@ u|_{\Gamma_l} &= |_{\Gamma_r},
 \end{align*}
 $$
 
-where we set $\partial\Omega = \Gamma_D\cup \Gamma_l \cup \Gamma_r$, with
+where we set \(\partial\Omega = \Gamma_D\cup \Gamma_l \cup \Gamma_r\), with
 
 $$\begin{align*}
 \Gamma_D &:=\{(x,y)\in \bar{\Omega}: y=0 \text{ or }y=1\},\quad&&\text{i.e. the bottom and top wall}\\
