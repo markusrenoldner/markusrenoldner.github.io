@@ -5,10 +5,14 @@ excerpt: "Solving a transport/wave system on a periodic mesh in FEniCSX"
 collection: notes
 ---
 
-
+The code below produces the following animation:
 
 <img src="https://markusrenoldner.github.io/files/transport_sys_periodic_animation_u.gif" alt="demo" />
 
+We use the MultiPointConstraint library, which is built on top of FEniCSx.
+
+- [https://jsdokken.com/dolfinx_mpc/](https://jsdokken.com/dolfinx_mpc/)
+- [https://docs.fenicsproject.org/](https://docs.fenicsproject.org/)
 
 
 We study the problem to find two time-dependent functions \\(u,\phi\\) on a bounded domain \\(\Omega=(0,1)^2 \subset \mathbb{R}^2\\), that satisfy 
