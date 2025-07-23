@@ -1,6 +1,6 @@
 ---
 title: 'Periodic transport system in FEniCSx'
-excerpt: "Solving a transport/wave system on a periodic mesh in FEniCSX <br/><img src='/images/poisson_periodic_scalar-1.png' style='max-width: 100%; height: auto; max-height: 200px;'>"
+excerpt: "Solving a transport/wave system on a periodic mesh in FEniCSX"
 
 collection: notes
 ---
