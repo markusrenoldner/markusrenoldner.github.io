@@ -25,7 +25,7 @@ Smooth solutions of the above system also satisfy a decoupled version of the abo
 
 $$\partial_{tt} u + b\cdot\nabla (b\cdot\nabla u) = h,$$
 
-for a suitable function $h$. This last problem resembles the linear wave equation, hence the name.
+for a suitable function \\(h\\). This last problem resembles the linear wave equation, hence the name.
 
 The aim of this tutorial is to show how to use periodic boundary conditions. We will choose the following setting:
 
