@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage. Here you can find information about my research, useful notes and scripts related to the former, and my CV.
+Welcome to my homepage. Here you'll find information about my research, notes, scripts, and CV.
 
-My research field is numerical analysis, in particular theory and applications of Finite Element methods. My current focus is on constructing discretization methods for equations from fusion plasma physics. I have recently also worked on topics in PDE theory and differential geometry. Before that, I gained experience in controls and systems engineering.
+My research is in numerical analysis, in particular on Finite Element methods. Current work involves approximation methods for equations in fusion plasma physics. I've also worked on topics in PDE theory and differential geometry and before that in control and systems engineering.
 
-Feel free to reach out via email or Linkedin.
+Contact me via email or LinkedIn.
+
