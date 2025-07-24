@@ -14,7 +14,7 @@ The code below produces the following animation:
 
 <img src="https://markusrenoldner.github.io/files/transport_sys_periodic_animation_u.gif" alt="demo" />
 
-We want to compute two time-dependent functions \\(u,\phi\\) on a bounded domain \\(\Omega=(0,1)^2 \subset \mathbb{R}^2\\), that solve 
+We want to compute two time-dependent functions \\(u,\phi\\) on a the unitsquare \\(\Omega=(0,1)^2\\), that solve 
 
 $$\begin{cases}
 \displaystyle \partial_{t} u + b\cdot \nabla \phi=0, \\
