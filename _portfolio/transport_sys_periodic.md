@@ -5,17 +5,16 @@ excerpt: "Solving a transport/wave system on a periodic mesh in FEniCSX"
 collection: notes
 ---
 
-The code below produces the following animation:
-
-<img src="https://markusrenoldner.github.io/files/transport_sys_periodic_animation_u.gif" alt="demo" />
-
-We use the MultiPointConstraint library, which is built on top of FEniCSx.
+Solving a transport/wave-system with Periodic Boundary Conditions in FEniCSx. For this we use the MultiPointConstraint library, which is built on top of FEniCSx.
 
 - [https://jsdokken.com/dolfinx_mpc/](https://jsdokken.com/dolfinx_mpc/)
 - [https://docs.fenicsproject.org/](https://docs.fenicsproject.org/)
 
+The code below produces the following animation:
 
-We study the problem to find two time-dependent functions \\(u,\phi\\) on a bounded domain \\(\Omega=(0,1)^2 \subset \mathbb{R}^2\\), that satisfy 
+<img src="https://markusrenoldner.github.io/files/transport_sys_periodic_animation_u.gif" alt="demo" />
+
+We want to compute two time-dependent functions \\(u,\phi\\) on a bounded domain \\(\Omega=(0,1)^2 \subset \mathbb{R}^2\\), that solve 
 
 $$\begin{cases}
 \displaystyle \partial_{t} u + b\cdot \nabla \phi=f, \\
@@ -23,13 +22,13 @@ $$\begin{cases}
 \end{cases}
 $$
 
-where the vectorfield satisfies \\(\operatorname{div} b = 0\\), that dictates the advection direction, and \\(f,g\\) are given functions.
+where the given vectorfield satisfies \\(\operatorname{div} b = 0\\), that dictates the advection direction, and \\(f,g\\) are given functions.
 
 Smooth solutions of the above system also satisfy a decoupled version of the above system, 
 
 $$\partial_{tt} u + b\cdot\nabla (b\cdot\nabla u) = h,$$
 
-for a suitable function \\(h\\). This last problem resembles the linear wave equation, hence the name.
+for a suitable function \\(h\\). This last problem resembles the linear wave equation, which explains the wavey dynamics of the solution.
 
 The aim of this tutorial is to show how to use periodic boundary conditions. We will choose the following setting:
 
