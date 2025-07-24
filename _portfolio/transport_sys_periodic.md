@@ -17,8 +17,8 @@ The code below produces the following animation:
 We want to compute two time-dependent functions \\(u,\phi\\) on a bounded domain \\(\Omega=(0,1)^2 \subset \mathbb{R}^2\\), that solve 
 
 $$\begin{cases}
-\displaystyle \partial_{t} u + b\cdot \nabla \phi=f, \\
-\partial_{t} \phi + b\cdot \nabla u=g,
+\displaystyle \partial_{t} u + b\cdot \nabla \phi=0, \\
+\partial_{t} \phi + b\cdot \nabla u=0,
 \end{cases}
 $$
 
@@ -26,7 +26,7 @@ where the given vectorfield satisfies \\(\operatorname{div} b = 0\\), that dicta
 
 Smooth solutions of the above system also satisfy a decoupled version of the above system, 
 
-$$\partial_{tt} u + b\cdot\nabla (b\cdot\nabla u) = h,$$
+$$\partial_{tt} u + b\cdot\nabla (b\cdot\nabla u) = 0,$$
 
 for a suitable function \\(h\\). This last problem resembles the linear wave equation, which explains the wavey dynamics of the solution.
 
