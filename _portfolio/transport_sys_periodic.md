@@ -19,8 +19,7 @@ We want to compute two time-dependent functions \\(u,\phi\\) on a bounded domain
 $$\begin{cases}
 \displaystyle \partial_{t} u + b\cdot \nabla \phi=0, \\
 \partial_{t} \phi + b\cdot \nabla u=0,
-\end{cases}
-$$
+\end{cases}$$
 
 where the given vectorfield satisfies \\(\operatorname{div} b = 0\\), that dictates the advection direction, and \\(f,g\\) are given functions.
 
@@ -32,13 +31,11 @@ This last problem resembles the linear wave equation, which explains the wavey d
 
 The aim of this tutorial is to show how to use periodic boundary conditions. We will choose the following setting:
 
-$$
-\begin{align*}
+$$\begin{align*}
 \phi|_{\Gamma_D} &=0 , \\
 \phi|_{\Gamma_l} &= \phi|_{\Gamma_r}, \\
 u|_{\Gamma_l} &= |_{\Gamma_r},
-\end{align*}
-$$
+\end{align*}$$
 
 where we set \\(\partial\Omega = \Gamma_D\cup \Gamma_l \cup \Gamma_r\\), with
 
