@@ -26,9 +26,9 @@ where the given vectorfield satisfies \\(\operatorname{div} b = 0\\), that dicta
 
 Smooth solutions of the above system also satisfy a decoupled version of the above system, 
 
-$$\partial_{tt} u + b\cdot\nabla (b\cdot\nabla u) = 0,$$
+$$\partial_{tt} u + b\cdot\nabla (b\cdot\nabla u) = 0.$$
 
-for a suitable function \\(h\\). This last problem resembles the linear wave equation, which explains the wavey dynamics of the solution.
+This last problem resembles the linear wave equation, which explains the wavey dynamics of the solution.
 
 The aim of this tutorial is to show how to use periodic boundary conditions. We will choose the following setting:
 
