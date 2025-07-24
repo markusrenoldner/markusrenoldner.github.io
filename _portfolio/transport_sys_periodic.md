@@ -73,7 +73,7 @@ from dolfinx import default_scalar_type
 
 
 
-Here we prepare three convenience functions, that will help us produce an animation of the evolution of the solutions $u,\phi$ afterwards.
+Here we prepare three convenience functions, that will help us produce an animation of the evolution of the solutions \\(u,\phi\\) afterwards.
 
 ```
 
