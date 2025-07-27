@@ -38,6 +38,6 @@ Rothenbuchner, J., Cohen, L., Abel, F., Buryak, D., Cuervo, K., Kingsnorth, J., 
 **BSc. Thesis: Development of an IOT-capable, modular Thermal Control EGSE for Space Applications** (2020)\
 **Renoldner, M.**\
 TU Wien\
-The project was carried out in colaboration with RUAG Space Austria (now Beyond Gravity Austria) and is therefore under an NDA.
+The project was carried out in collaboration with RUAG Space Austria (now Beyond Gravity Austria) and is therefore under an NDA.
 
 -------------------
