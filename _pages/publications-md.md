@@ -41,3 +41,22 @@ TU Wien\
 The project was carried out in collaboration with RUAG Space Austria (now Beyond Gravity Austria) and is therefore under an NDA.
 
 -------------------
+
+
+
+
+
+
+
+# Conferences
+
+
+**Numerical analysis and well-posedness of the Shear Alfvén wave problem** (2025)\
+**Renoldner, M**, Miehling, T., Picasso M., Buffa, A., Ricci, P.\
+ECCOMAS Coupled Problems 2025, Villasimius, Italy\
+[abstract](https://coupled2025.cimne.com/event/contribution/60f0dd0f-b009-11ef-9e02-000c29ddfc0c)
+
+-------------------
+
+
+
