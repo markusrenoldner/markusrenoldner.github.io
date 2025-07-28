@@ -44,8 +44,8 @@ The project was carried out in collaboration with RUAG Space Austria (now Beyond
 
 
 
-<div style="margin-top: 1cm;"></div>
 
+<br style="line-height:1cm;">
 
 # Conferences
 
