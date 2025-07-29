@@ -1,11 +1,14 @@
 ---
 title: 'Periodic poisson problem in FEniCSx'
 excerpt: "Solving the poisson problem on a periodic mesh in FEniCSX 
+collection: notes
+---
+
 
 <!-- This is a comment -->
 <!-- <br/><img src='/images/poisson_periodic_scalar-1.png' style='max-width: 100%; height: auto; max-height: 200px;'>" -->
-collection: notes
----
+
+
 
 Solving the Poisson Problem with Periodic Boundary Conditions in FEniCSx. For this we use the MultiPointConstraint library, which is built on top of FEniCSx.
 
