@@ -8,6 +8,7 @@
 2. settings/general/danger zone: make it public
 3. settings/pages: publish size
 4. settings/pages: (optional) choose a custom domain (either "[markusrenoldner.com](https://www.markusrenoldner.com/)"; or if already used by "another" homepage, "https://www.markusrenoldner.com/[REPONAME]"
+This custom domain (e.g. from namecheap) gets activated (somehow) by storing a file named CNAME in this repo, that contains the URL (i.e. www.markusrenoldner.com)
  
 
 
